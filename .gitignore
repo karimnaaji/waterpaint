@@ -18,9 +18,7 @@ cmake_install.cmake
 *.swo
 *.log
 
-build/images/*
-build/linux/
-build/osx/
+build/*
 
 #os file
 .DS_Store
