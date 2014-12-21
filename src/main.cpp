@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 
     NetPBMLoader loader;
 
-    int size = 1024;
+    int size = 512;
     int k = 20;
     int a = 200;
     Color background = Color(248, 250, 245);
